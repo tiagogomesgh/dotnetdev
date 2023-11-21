@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpHLCpccLEKybEHSZnaDV/xO1Xj9GBezFLtb4C6M/7rOUN2INlye7nj8Xbw1/XD9vznHalh1cKflpiiYdq6UGg==",
+  "success": true,
+  "projectFilePath": "/home/tiago/projects/netdev/ConsoleApp/ConsoleAppProj/ConsoleAppProj.csproj",
+  "expectedPackageFiles": [
+    "/home/tiago/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwg8wCxFr4h/f8Afgdw/RhbgKdaOYeUMGiEMi+frkin0qCoIr5QiWPRysRjsusp7vJs61RRLh6GI/in+isb3Cg==",
+  "success": true,
+  "projectFilePath": "/home/tiago/projects/netdev/MVCSpeedrun/MVCSpeedrunProj/MVCSpeedrunProj.csproj",
+  "expectedPackageFiles": [
+    "/home/tiago/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
