@@ -25,3 +25,13 @@ app.MapControllerRoute(
 app.MapFallbackToFile("index.html");
 
 app.Run();
+
+ string myFunction() {
+
+    string result = "null";
+    //Relearn C-Sharp Variables, Methods, and Basic Syntax
+    //Study ASP.NET + Refresh on React
+   return result;
+}
+
+myFunction();
