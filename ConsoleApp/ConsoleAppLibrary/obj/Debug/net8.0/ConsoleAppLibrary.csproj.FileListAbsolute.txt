@@ -1,0 +1,13 @@
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/bin/Debug/net8.0/ConsoleAppLibrary.deps.json
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/bin/Debug/net8.0/ConsoleAppLibrary.dll
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/bin/Debug/net8.0/ConsoleAppLibrary.pdb
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.csproj.AssemblyReference.cache
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.AssemblyInfoInputs.cache
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.AssemblyInfo.cs
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.csproj.CoreCompileInputs.cache
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.sourcelink.json
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.dll
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/refint/ConsoleAppLibrary.dll
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ConsoleAppLibrary.pdb
+/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/obj/Debug/net8.0/ref/ConsoleAppLibrary.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xC0PunaennBxm8XrJS0/9fIug3K17gUhZ9fd0lA+oapwTib3AGh63AIjoV2oujviC0jCimC9hJI63PwLFOpqjg==",
+  "success": true,
+  "projectFilePath": "/home/tiago/projects/netdev/ConsoleApp/ConsoleAppLibrary/ConsoleAppLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/tiago/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/tiago/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/tiago/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
