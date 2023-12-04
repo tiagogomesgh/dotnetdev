@@ -27,3 +27,12 @@ static IHostBuilder CreateHostBuilder(string[] args)
             services.AddSingleton<App>();
         });
 }
+// ////////////////////////////////////////////////////////
+//                    Comment Block                      //
+// ////////////////////////////////////////////////////////
+//       This program uses a CustomText.json file,       //
+//       To sort and handle a language preference,       //
+//       and to display a respecting Hello World         //
+//       message to the console. This app also handles   //
+//       dependency injection using nuget packages       //
+// ////////////////////////////////////////////////////////
